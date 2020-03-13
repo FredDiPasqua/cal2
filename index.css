@@ -1,3 +1,29 @@
 .imagenes div img{
     widht: 200px
 }
+
+.copyright{
+    background-color: black;
+    color: white;
+    text-align: end;
+}
+.copyright p{
+    padding-right: 20px;
+}
+
+.email{
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+.email form{
+    padding: 20px;
+}
+.email h4{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.header{
+    background: burlywood;
+    text-align: center;
+}
